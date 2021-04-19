@@ -1,0 +1,31 @@
+#section1 {
+  background-image: linear-gradient(to right, red, yellow);
+  color: white;
+  font-family: cursive;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+  padding: 20px;
+}
+
+#section2 {
+  background-image: linear-gradient(to right, rgb(195, 0, 255), orange);
+  color: white;
+  font-family: "arial", Times, serif;
+  display: none;
+  padding: 20px;
+}
+#button2 {
+  background: red;
+  border-radius: -10%;
+  color: white;
+  width: 70px;
+  height: 30px;
+  border: 2px solid white;
+}
+#button1 {
+  background: rgb(255, 136, 0);
+  border-radius: 20%;
+  color: white;
+  width: 70px;
+  height: 30px;
+  border: 2px solid white;
+}
